@@ -1,0 +1,14 @@
+C:\dev\demos\mod5\Fansoft.Store.IoCDI\bin\Release\netcoreapp2.2\Fansoft.Store.IoCDI.deps.json
+C:\dev\demos\mod5\Fansoft.Store.IoCDI\bin\Release\netcoreapp2.2\Fansoft.Store.IoCDI.dll
+C:\dev\demos\mod5\Fansoft.Store.IoCDI\bin\Release\netcoreapp2.2\Fansoft.Store.IoCDI.pdb
+C:\dev\demos\mod5\Fansoft.Store.IoCDI\bin\Release\netcoreapp2.2\Fansoft.Store.Data.dll
+C:\dev\demos\mod5\Fansoft.Store.IoCDI\bin\Release\netcoreapp2.2\Fansoft.Store.Domain.dll
+C:\dev\demos\mod5\Fansoft.Store.IoCDI\bin\Release\netcoreapp2.2\Fansoft.Store.Domain.pdb
+C:\dev\demos\mod5\Fansoft.Store.IoCDI\bin\Release\netcoreapp2.2\Fansoft.Store.Data.pdb
+C:\dev\demos\mod5\Fansoft.Store.IoCDI\obj\Release\netcoreapp2.2\Fansoft.Store.IoCDI.csprojAssemblyReference.cache
+C:\dev\demos\mod5\Fansoft.Store.IoCDI\obj\Release\netcoreapp2.2\Fansoft.Store.IoCDI.csproj.CoreCompileInputs.cache
+C:\dev\demos\mod5\Fansoft.Store.IoCDI\obj\Release\netcoreapp2.2\Fansoft.Store.IoCDI.AssemblyInfoInputs.cache
+C:\dev\demos\mod5\Fansoft.Store.IoCDI\obj\Release\netcoreapp2.2\Fansoft.Store.IoCDI.AssemblyInfo.cs
+C:\dev\demos\mod5\Fansoft.Store.IoCDI\obj\Release\netcoreapp2.2\Fansoft.Store.IoCDI.csproj.CopyComplete
+C:\dev\demos\mod5\Fansoft.Store.IoCDI\obj\Release\netcoreapp2.2\Fansoft.Store.IoCDI.dll
+C:\dev\demos\mod5\Fansoft.Store.IoCDI\obj\Release\netcoreapp2.2\Fansoft.Store.IoCDI.pdb

@@ -1,0 +1,4 @@
+C:\dev\demos\mod3\Fansoft.Store.Data\obj\Debug\netstandard2.0\Fansoft.Store.Data.csprojAssemblyReference.cache
+C:\dev\demos\mod3\Fansoft.Store.Data\obj\Debug\netstandard2.0\Fansoft.Store.Data.csproj.CoreCompileInputs.cache
+C:\dev\demos\mod3\Fansoft.Store.Data\obj\Debug\netstandard2.0\Fansoft.Store.Data.AssemblyInfoInputs.cache
+C:\dev\demos\mod3\Fansoft.Store.Data\obj\Debug\netstandard2.0\Fansoft.Store.Data.AssemblyInfo.cs

@@ -1,0 +1,8 @@
+C:\dev\demos\mod3\Fansoft.Store.Domain\bin\Debug\netstandard2.0\Fansoft.Store.Domain.deps.json
+C:\dev\demos\mod3\Fansoft.Store.Domain\bin\Debug\netstandard2.0\Fansoft.Store.Domain.dll
+C:\dev\demos\mod3\Fansoft.Store.Domain\bin\Debug\netstandard2.0\Fansoft.Store.Domain.pdb
+C:\dev\demos\mod3\Fansoft.Store.Domain\obj\Debug\netstandard2.0\Fansoft.Store.Domain.csproj.CoreCompileInputs.cache
+C:\dev\demos\mod3\Fansoft.Store.Domain\obj\Debug\netstandard2.0\Fansoft.Store.Domain.AssemblyInfoInputs.cache
+C:\dev\demos\mod3\Fansoft.Store.Domain\obj\Debug\netstandard2.0\Fansoft.Store.Domain.AssemblyInfo.cs
+C:\dev\demos\mod3\Fansoft.Store.Domain\obj\Debug\netstandard2.0\Fansoft.Store.Domain.dll
+C:\dev\demos\mod3\Fansoft.Store.Domain\obj\Debug\netstandard2.0\Fansoft.Store.Domain.pdb

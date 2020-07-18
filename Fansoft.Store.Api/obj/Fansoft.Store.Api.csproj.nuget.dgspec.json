@@ -1,0 +1,257 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\demos\\mod5\\Fansoft.Store.Api\\Fansoft.Store.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\demos\\mod5\\Fansoft.Store.Api\\Fansoft.Store.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\demos\\mod5\\Fansoft.Store.Api\\Fansoft.Store.Api.csproj",
+        "projectName": "Fansoft.Store.Api",
+        "projectPath": "C:\\dev\\demos\\mod5\\Fansoft.Store.Api\\Fansoft.Store.Api.csproj",
+        "packagesPath": "C:\\Users\\nalin\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\demos\\mod5\\Fansoft.Store.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nalin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\dev\\demos\\mod5\\Fansoft.Store.Domain\\Fansoft.Store.Domain.csproj": {
+                "projectPath": "C:\\dev\\demos\\mod5\\Fansoft.Store.Domain\\Fansoft.Store.Domain.csproj"
+              },
+              "C:\\dev\\demos\\mod5\\Fansoft.Store.IoCDI\\Fansoft.Store.IoCDI.csproj": {
+                "projectPath": "C:\\dev\\demos\\mod5\\Fansoft.Store.IoCDI\\Fansoft.Store.IoCDI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc.Formatters.Xml": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\dev\\demos\\mod5\\Fansoft.Store.Data\\Fansoft.Store.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\demos\\mod5\\Fansoft.Store.Data\\Fansoft.Store.Data.csproj",
+        "projectName": "Fansoft.Store.Data",
+        "projectPath": "C:\\dev\\demos\\mod5\\Fansoft.Store.Data\\Fansoft.Store.Data.csproj",
+        "packagesPath": "C:\\Users\\nalin\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\demos\\mod5\\Fansoft.Store.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nalin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\dev\\demos\\mod5\\Fansoft.Store.Domain\\Fansoft.Store.Domain.csproj": {
+                "projectPath": "C:\\dev\\demos\\mod5\\Fansoft.Store.Domain\\Fansoft.Store.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\dev\\demos\\mod5\\Fansoft.Store.Domain\\Fansoft.Store.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\demos\\mod5\\Fansoft.Store.Domain\\Fansoft.Store.Domain.csproj",
+        "projectName": "Fansoft.Store.Domain",
+        "projectPath": "C:\\dev\\demos\\mod5\\Fansoft.Store.Domain\\Fansoft.Store.Domain.csproj",
+        "packagesPath": "C:\\Users\\nalin\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\demos\\mod5\\Fansoft.Store.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nalin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\dev\\demos\\mod5\\Fansoft.Store.IoCDI\\Fansoft.Store.IoCDI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\demos\\mod5\\Fansoft.Store.IoCDI\\Fansoft.Store.IoCDI.csproj",
+        "projectName": "Fansoft.Store.IoCDI",
+        "projectPath": "C:\\dev\\demos\\mod5\\Fansoft.Store.IoCDI\\Fansoft.Store.IoCDI.csproj",
+        "packagesPath": "C:\\Users\\nalin\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\demos\\mod5\\Fansoft.Store.IoCDI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nalin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\dev\\demos\\mod5\\Fansoft.Store.Data\\Fansoft.Store.Data.csproj": {
+                "projectPath": "C:\\dev\\demos\\mod5\\Fansoft.Store.Data\\Fansoft.Store.Data.csproj"
+              },
+              "C:\\dev\\demos\\mod5\\Fansoft.Store.Domain\\Fansoft.Store.Domain.csproj": {
+                "projectPath": "C:\\dev\\demos\\mod5\\Fansoft.Store.Domain\\Fansoft.Store.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
